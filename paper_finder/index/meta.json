@@ -1,0 +1,7 @@
+{
+  "backend": "st",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "n_papers": 5977,
+  "dim": 384,
+  "build_seconds": 138.4
+}

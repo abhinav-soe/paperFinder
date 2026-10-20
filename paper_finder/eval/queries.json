@@ -1,0 +1,50 @@
+[
+  {
+    "id": "q1",
+    "text": "detecting fake news using multimodal deep learning"
+  },
+  {
+    "id": "q2",
+    "text": "spotting misleading posts that combine images and text"
+  },
+  {
+    "id": "q3",
+    "text": "learning from data spread across hospitals without sharing patient records"
+  },
+  {
+    "id": "q4",
+    "text": "explaining the decisions of black box neural networks"
+  },
+  {
+    "id": "q5",
+    "text": "suggesting products to users based on their past behaviour"
+  },
+  {
+    "id": "q6",
+    "text": "predicting future values of sequential sensor data"
+  },
+  {
+    "id": "q7",
+    "text": "teaching agents to act by trial and error with rewards"
+  },
+  {
+    "id": "q8",
+    "text": "identifying unusual events in streaming data"
+  },
+  {
+    "id": "q9",
+    "text": "turning spoken audio into written text"
+  },
+  {
+    "id": "q10",
+    "text": "automatically outlining organs in medical scans"
+  },
+  {
+    "id": "q11",
+    "text": "attacks that fool image classifiers with tiny perturbations"
+  },
+  {
+    "id": "q12",
+    "text": "measuring how well large language models perform"
+  }
+]

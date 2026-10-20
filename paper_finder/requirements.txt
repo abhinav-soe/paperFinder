@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+requests
+plotly
+streamlit
+joblib
+pytest
+# optional: faiss-cpu   (the app falls back to exact NumPy search if FAISS is not installed)
