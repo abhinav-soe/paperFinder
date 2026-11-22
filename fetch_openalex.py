@@ -3,7 +3,6 @@ Needs a FREE API key: https://openalex.org/settings/api   (set OPENALEX_API_KEY 
 import argparse
 import os
 import time
-#apikey="DzQ140djSWeQBkdgq2SSuM"
 import pandas as pd
 import requests
 
