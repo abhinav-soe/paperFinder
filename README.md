@@ -188,6 +188,4 @@ Potential extensions include:
 - Adding a retrieval-augmented question-answering layer over paper abstracts.
 - Improving evaluation coverage and reproducibility across datasets.
 
-## License and Attribution
 
-Add the appropriate license information for this repository and follow the OpenAlex API's applicable terms and attribution requirements.
